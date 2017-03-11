@@ -3,3 +3,8 @@ h1 {
   color: #33FFE6;
   font-family: 'Open Sans Condensed', sans-serif;
 }
+
+button {
+  padding: 0px 15px
+  color: #FF338D;
+}
